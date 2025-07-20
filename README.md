@@ -28,7 +28,7 @@
   Web API minimalista em Node + TypeScript, sem frameworks externos.
 
 - 🔐 [**QR Code Password Generator**](https://github.com/gustavoSilvaDev-exe/PROJECT-qr-code-password-generator)  
-  Geração de senhas seguras com exportação via QR Code.
+  Geração de senhas seguras e QR Codes funcionais.
 
 - 🛒 [**Shopee Cart Simulator**](https://github.com/gustavoSilvaDev-exe/PROJECT-shopee-cart-simulator)  
   Simulador de carrinho de compras inspirado na Shopee, em JavaScript puro.
