@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o <Gustavo>!
+# 👋 Olá, eu sou o Gustavo!
 
 🎨 Estudante de Design migrando para o mundo do **Desenvolvimento Full Stack**  
 🚀 Apaixonado por criar interfaces intuitivas e aplicações funcionais  
